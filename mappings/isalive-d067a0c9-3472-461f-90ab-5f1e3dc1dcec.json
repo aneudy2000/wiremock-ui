@@ -1,0 +1,20 @@
+{
+  "id" : "d067a0c9-3472-461f-90ab-5f1e3dc1dcec",
+  "name" : "IsAlive",
+  "request" : {
+    "urlPath" : "/IsAlive",
+    "method" : "GET",
+    "headers" : { },
+    "queryParameters" : { },
+    "cookies" : { },
+    "bodyPatterns" : [ ]
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{ \"IsAlive\": true }",
+    "headers" : { }
+  },
+  "uuid" : "d067a0c9-3472-461f-90ab-5f1e3dc1dcec",
+  "persistent" : true,
+  "insertionIndex" : 0
+}
